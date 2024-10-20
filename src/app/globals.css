@@ -23,6 +23,9 @@ body {
 .max-content-width {
   @apply max-w-[1440px] mx-auto px-4 md:px-8 lg:px-12 xl:px-16;
 }
+.section-margin-t{
+  @apply mt-12 md:mt-16 lg:mt-20;
+}
 
 @layer utilities {
   .text-balance {
